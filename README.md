@@ -97,7 +97,7 @@ Visit `http://127.0.0.1:8000/docs` in your browser to see the interactive API do
         "status": "healthy",
         "error": "No RRSIGs found"
       },
-      "timestamp": "2024-11-12 12:00:00"
+      "timestamp": "2024-11-23 12:00:00"
     }
     ```
 
